@@ -8,11 +8,7 @@
 - 🇧🇷 Brazilian
 
 ## Tools and Languages
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> <img height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
 ## Learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
