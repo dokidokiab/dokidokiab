@@ -2,7 +2,6 @@
 ## I'm Abel 
 
 - 🎮 Working on IMO, a RPG game with signal language learning method.
-- 🤖 Currently collaborating on SertaoCop, a robotics group.
 - 🗨️ Portuguese/English/Japanese
 - 😄 Any pronouns
 - 🇧🇷 Brazilian
