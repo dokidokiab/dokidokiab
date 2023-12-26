@@ -1,9 +1,7 @@
 ### Hi there, creatures! 👋
 ## I'm Abel 
 
-- 🎮 Working on IMO, a RPG game with signal language learning method.
 - 🗨️ Portuguese/English/Japanese
-- 😄 Any pronouns
 - 🇧🇷 Brazilian
 
 ## Tools and Languages
